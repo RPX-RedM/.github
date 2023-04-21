@@ -24,7 +24,7 @@ The framework core has been designed and packaged to include as much baseline fu
 ## Useful Links
 
 - [Website](https://rpx.red/)
-- [Documentation](https://rpx.red/quick-start/)
+- [Documentation](https://rpx.red/docs/quick-start)
 - [Discord](https://discord.gg/mMNJsDEFp5)
 
 ## Status
