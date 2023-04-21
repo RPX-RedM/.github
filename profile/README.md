@@ -2,7 +2,7 @@
 
 # RPX Framework
 
-### An up-to-date roleplay framework for RedM by Cfx
+### An up-to-date roleplay framework for [RedM](https://redm.net/)
 
 The vision for **RPX Framework** is to provide those making RedM servers with a new level of ease and flexibility when it comes to creating custom gameplay experiences. It has been designed to act as a more solid, simple, and purpose driven base of code compared to the other frameworks currently available.
 
@@ -25,7 +25,7 @@ The framework core has been designed and packaged to include as much baseline fu
 
 - [Website](https://rpx.red/)
 - [Documentation](https://rpx.red/quick-start/)
-- [Discord]()
+- [Discord](https://discord.gg/mMNJsDEFp5)
 
 ## Status
 
