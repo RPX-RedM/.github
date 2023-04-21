@@ -1,4 +1,4 @@
-<a href="https://rpx.red/"><img src="https://cdn.discordapp.com/attachments/1093267479905714196/1098772693123350558/rpx-social-card.png" width="50%"/></a>
+<a href="https://rpx.red/" target="_blank"><img src="https://cdn.discordapp.com/attachments/1093267479905714196/1098772693123350558/rpx-social-card.png" width="50%"/></a>
 
 # RPX Framework
 
